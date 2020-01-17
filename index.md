@@ -5,7 +5,7 @@ date:
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2020/01/17/Logo Long.png"
+  logo: "/uploads/2020/01/17/Logo Long Black.png"
   navigation:
   - link: "/"
     link_text: Home
